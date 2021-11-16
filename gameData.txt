@@ -1,0 +1,5 @@
+1 0 3 B U B  1 0  2 0  3 0  4 0  5 0  test1 30 0
+0 2 U U 3 Y Y Y 3 L L L 5 R R R R R 0  0 . Y B L . . R Y B L L U R . . B . . . Y Y . . . .  
+ test2 21 0
+1 Y 0 2 U U 3 U U U 4 L L L L 3 F Y Y  0 . . B L U U . Y B L . . R . B B L . . . Y . . U .  
+ 
